@@ -47,7 +47,7 @@ public class Ascii_table {
         System.out.println("enter character for method 3");
         int int3 =10;
         char chhh1 =scan.next().charAt(0);
-        int chhh2 =int3+chhh1;//
+        int chhh2 =int3+chhh1;
         if((chhh2 >=65 && chhh2 <=90)||(chhh2 >=97&& chhh2 <=122)){ 
         System.out.println("Alpahbet");}
         else  if(chhh2 >=48 && chhh2 <=57)
