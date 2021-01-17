@@ -65,7 +65,7 @@ public class Ascii_table {
         {System.out.println("Digit");}
         else{System.out.println("symbol");}
         System.out.println("enter your character and check with"+int4 + " + :"+chhhh2);
-            //update
+       
         } 
         
     }
